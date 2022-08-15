@@ -1,0 +1,18 @@
+@import url(window_control_placeholder_support.css) screen;
+@import url(hide_tabs_toolbar.css) screen;
+@import url(treestyletab.css) screen;
+
+
+/*** Remove items from image context menu ***/
+
+/* Email Image... */
+#context-sendimage, 
+
+/* Set Image as Desktop Background... (and preceding separator) */
+#context-sep-setbackground, #context-setDesktopBackground,
+
+/* Inspect Accessibility Properties */
+#context-inspect-a11y
+{
+  display: none !important;
+}
