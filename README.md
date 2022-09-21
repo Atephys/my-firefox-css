@@ -4,7 +4,7 @@ These are my userchrome.css and treestyletab.css that I use in my Firefox browse
 
 ## How to use
 ### add treestyletab extenstion to firefox
-* (https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/)[extension website]
+* https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/
 
 ### setting up browser to accept config
 * go to `about:config`
