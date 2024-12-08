@@ -28,7 +28,7 @@
 #sidebar-box[sidebarcommand="treestyletab_piro_sakura_ne_jp-sidebar-action"] {
     /* overflow: hidden!important; */
     border-right: 1px solid #0c0c0d !important;
-    z-index: 2!important;
+    z-index: 3!important;
     position: relative !important;
     transition: all 100ms !important;
     min-width: var(--thin-tab-width) !important;
